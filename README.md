@@ -21,3 +21,9 @@ Each digit is stored in a node of a doubly linked list
 Arithmetic operations are performed using classic algorithms (carry, borrow, long multiplication, long division)
 
 Designed without using built-in big integer libraries
+
+# Usage
+./a.out <operand1> <operator> <operand2>
+
+Example:
+./a.out 12345678901234567890 + 98765432109876543210
