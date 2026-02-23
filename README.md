@@ -3,7 +3,7 @@ A command-line calculator implemented in C that performs arithmetic on integers 
 multiplication, and division by representing numbers using doubly linked lists, enabling computations beyond standard integer limits.
 
 
-#Features
+# Features
 Handles arbitrarily large signed integers
 
 Supports +, -, *, and / operations
@@ -15,7 +15,7 @@ Uses custom doubly linked list data structure
 Includes input validation and error handling (e.g., division by zero)
 
 
-#Implementation Details
+# Implementation Details
 Each digit is stored in a node of a doubly linked list
 
 Arithmetic operations are performed using classic algorithms (carry, borrow, long multiplication, long division)
