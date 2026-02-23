@@ -23,7 +23,7 @@ Arithmetic operations are performed using classic algorithms (carry, borrow, lon
 Designed without using built-in big integer libraries
 
 # Usage
-./a.out <operand1> <operator> <operand2>
+./a.out  < operand1 >  < operator >  < operand2 >
 
 Example:
 ./a.out 12345678901234567890 + 98765432109876543210
